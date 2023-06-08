@@ -6,7 +6,7 @@ using namespace std;
 // Namespace alias 
 // namespace sc = std::chrono;
 
-void func(int i){
+void func(int&& i){
     cout << "func(int) called\n" ;
 }
 
@@ -15,6 +15,9 @@ void func(int i){
 // }
 std::vector<int> vec{4,2,3,6,1};
 auto x = [](int arg){return 2*arg;};
+int y=3;
+
+
 
 
 int main(){
@@ -27,9 +30,10 @@ int main(){
         cout << "Vector val is " << i << endl; 
     }
 
-    auto n_even = std::__count_if(vec.begin(),vec.end(),[](int n){return (n%2 == 0);});
+    // auto n_even = std::__count_if(vec.begin(),vec.end(),[](int n){return (n%2 == 0);});
 
-    cout << "The vector has " << n_even << "elements with even values \n";
+    // cout << "The vector has " << n_even << "elements with even values \n";
 
+    func(std::move(y));
 
 }
