@@ -38,4 +38,17 @@
             std::thread thr(func,std::move(str));
 
     Pass by Value:
-    
+
+8. Thread object only movable not copiable.
+
+9.  thr.Join()      --> Parent thread stops and allow child thread to run
+    thr.detach()    --> Parent thread runs along with the child thread
+
+    The destructor are called for every object in scope::
+        while running a thread , it checks whther join() or detach() have been called. If neither, it calls std::terminate()
+    We must call either join() or detach() before the thread is destroyed.
+
+10. Lock_guard is being used for unlocking the mutex by making out of scope of mutex object.
+
+11. unique_lock can be use for unlocking the mutex while exception or if any thread is unable to unlock the mutex.
+    unique lock is slower than lock guard

@@ -16,7 +16,7 @@ void excep(){
         throw std::exception();
     }
     catch (std::exception& e){
-        std::cout << "Exception caught" << e.what() << endl;
+        std::cout << "Exception caught  " << e.what() << endl;
     }
     cout << "hello thread" << endl;
 }
