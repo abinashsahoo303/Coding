@@ -10,7 +10,7 @@ class baseClass{
 };
 
 int main(){
-    baseClass obj (3,4);
-    obj.y =7;
+    baseClass obj(3,4);
+    // obj.y =7;
     return 0;
 }
