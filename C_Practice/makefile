@@ -1,3 +1,8 @@
+
+CC= gcc
+CFLAGS= -I
+DEPS= Helloworld.h
+
 clean:
 	rm -rf execmake
 all:
