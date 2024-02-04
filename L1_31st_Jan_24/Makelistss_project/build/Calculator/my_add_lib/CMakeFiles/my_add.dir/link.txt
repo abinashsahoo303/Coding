@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libmy_add.a CMakeFiles/my_add.dir/add.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libmy_add.a

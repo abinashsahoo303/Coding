@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Vector_cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\MyExe.dir\\Vector.cpp.obj -c D:\\Repo_GIT\\Coding\\L1_31st_Jan_24\\Makelistss_project\\Vector_cpp\\Vector.cpp",
+  "file": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/Vector_cpp/Vector.cpp",
+  "output": "Vector_cpp/CMakeFiles/MyExe.dir/Vector.cpp.obj"
+},
+{
+  "directory": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Ex_main",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\MyExecutable.dir\\main.cpp.obj -c D:\\Repo_GIT\\Coding\\L1_31st_Jan_24\\Makelistss_project\\Ex_main\\main.cpp",
+  "file": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/Ex_main/main.cpp",
+  "output": "Ex_main/CMakeFiles/MyExecutable.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Calc.dir\\main.cpp.obj -c D:\\Repo_GIT\\Coding\\L1_31st_Jan_24\\Makelistss_project\\Calculator\\main.cpp",
+  "file": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/Calculator/main.cpp",
+  "output": "Calculator/CMakeFiles/Calc.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_add_lib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\my_add.dir\\add.cpp.obj -c D:\\Repo_GIT\\Coding\\L1_31st_Jan_24\\Makelistss_project\\Calculator\\my_add_lib\\add.cpp",
+  "file": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/Calculator/my_add_lib/add.cpp",
+  "output": "Calculator/my_add_lib/CMakeFiles/my_add.dir/add.cpp.obj"
+},
+{
+  "directory": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_mul_lib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\my_mul.dir\\mul.cpp.obj -c D:\\Repo_GIT\\Coding\\L1_31st_Jan_24\\Makelistss_project\\Calculator\\my_mul_lib\\mul.cpp",
+  "file": "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/Calculator/my_mul_lib/mul.cpp",
+  "output": "Calculator/my_mul_lib/CMakeFiles/my_mul.dir/mul.cpp.obj"
+}
+]

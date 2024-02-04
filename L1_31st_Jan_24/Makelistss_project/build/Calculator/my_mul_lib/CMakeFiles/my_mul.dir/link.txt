@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libmy_mul.a CMakeFiles/my_mul.dir/mul.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libmy_mul.a

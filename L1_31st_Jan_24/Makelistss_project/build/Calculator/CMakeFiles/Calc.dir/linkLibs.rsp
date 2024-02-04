@@ -1,0 +1,1 @@
+ my_add_lib/libmy_add.a my_mul_lib/libmy_mul.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

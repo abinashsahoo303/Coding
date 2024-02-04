@@ -1,0 +1,17 @@
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/CMakeFiles/edit_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/CMakeFiles/rebuild_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Vector_cpp/CMakeFiles/MyExe.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Vector_cpp/CMakeFiles/edit_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Vector_cpp/CMakeFiles/rebuild_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Ex_main/CMakeFiles/MyExecutable.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Ex_main/CMakeFiles/edit_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Ex_main/CMakeFiles/rebuild_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/CMakeFiles/Calc.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/CMakeFiles/edit_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/CMakeFiles/rebuild_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_add_lib/CMakeFiles/my_add.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_add_lib/CMakeFiles/edit_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_add_lib/CMakeFiles/rebuild_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_mul_lib/CMakeFiles/my_mul.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_mul_lib/CMakeFiles/edit_cache.dir
+D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build/Calculator/my_mul_lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,212 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Vector_cpp",
+					"jsonFile" : "directory-Vector_cpp-Debug-5634a04e963f2dfc7caa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Vector_cpp",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Ex_main",
+					"jsonFile" : "directory-Ex_main-Debug-78e6b945e4b708468b62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Ex_main",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Calculator",
+					"childIndexes" : 
+					[
+						4,
+						5
+					],
+					"jsonFile" : "directory-Calculator-Debug-75224be50ef0ef6bd46e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Calculator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Calculator/my_add_lib",
+					"jsonFile" : "directory-Calculator.my_add_lib-Debug-b0a014bd82e2cfa135d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "Calculator/my_add_lib",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Calculator/my_mul_lib",
+					"jsonFile" : "directory-Calculator.my_mul_lib-Debug-79b6d443f967b36ae9a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "Calculator/my_mul_lib",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyCmake"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "MyVectorPro",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "MyProject",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4,
+						5
+					],
+					"name" : "MyCalculator",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Calc::@0f793c103ae9cca63ff0",
+					"jsonFile" : "target-Calc-Debug-1644f765e0dc14b9707d.json",
+					"name" : "Calc",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MyExe::@02f9fcae88a4fdbc486e",
+					"jsonFile" : "target-MyExe-Debug-34bf971120586f9d5257.json",
+					"name" : "MyExe",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MyExecutable::@e84ed2dbe90363559d84",
+					"jsonFile" : "target-MyExecutable-Debug-f697964f09a2ccbfcf53.json",
+					"name" : "MyExecutable",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "my_add::@b75eecafd99ab1978fb5",
+					"jsonFile" : "target-my_add-Debug-2b721ea2d9bd7417773e.json",
+					"name" : "my_add",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "my_mul::@5e88e84e925f3d9bd776",
+					"jsonFile" : "target-my_mul-Debug-c189796442f6451453d1.json",
+					"name" : "my_mul",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project/build",
+		"source" : "D:/Repo_GIT/Coding/L1_31st_Jan_24/Makelistss_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
